@@ -1,0 +1,15 @@
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\bin\Debug\net8.0\adopt a fish.exe
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\bin\Debug\net8.0\adopt a fish.deps.json
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\bin\Debug\net8.0\adopt a fish.runtimeconfig.json
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\bin\Debug\net8.0\adopt a fish.dll
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\bin\Debug\net8.0\adopt a fish.pdb
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\adopt a fish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\adopt a fish.AssemblyInfoInputs.cache
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\adopt a fish.AssemblyInfo.cs
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\adopt a fish.csproj.CoreCompileInputs.cache
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\adopt a fish.sourcelink.json
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\adopt a fish.dll
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\refint\adopt a fish.dll
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\adopt a fish.pdb
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\adopt a fish.genruntimeconfig.cache
+C:\Users\VXZY0\Source\Repos\adopt-a-fish-theeweek3\adopt a fish\obj\Debug\net8.0\ref\adopt a fish.dll
